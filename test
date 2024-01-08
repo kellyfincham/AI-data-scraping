@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice", 
+      "question": "What are you studying?",
+      "options": [
+        "News journalism",
+        "Sports journalism",
+        "International journalism"
+      ]
+    },
+    {
+      "type": "matrix",
+      "question": "The items in this questionnaire refer to experiences that may cause tension or anxiety. For each item indicate how anxious it would make you.",
+      "options": [
+        "Not at all",
+        "A little anxious", 
+        "Fairly anxious",
+        "Very anxious",
+        "Extremely anxious"
+      ],
+      "items": [
+        "Walking into a maths class",
+        "Studying for a maths exam",
+        "Taking a maths exam",
+        "Reading or watching a report based on numbers, such as election coverage, pandemic, etc.",
+        "Writing and posting a story involving statistics",
+        "Writing and posting a story including your own graphs",
+        "Being asked to comment on your own numbers-based story during a live two-way",
+        "Interviewing a colleague about their numbers-based story during a live two-way",
+        "Walking into a data journalism class",
+        "Using a spreadsheet"
+      ]
+    },
+    {
+      "type": "matrix",
+      "question": "How far do you agree with these statements?",
+      "options": [
+        "Strongly agree",
+        "Agree",
+        "Neutral", 
+        "Disagree",
+        "Strongly disagree"
+      ],
+      "items": [
+        "Everyone struggles to understand numbers at some point",
+        "Everyone makes mistakes sometimes in maths",
+        "Making mistakes is necessary to get good at using numbers",
+        "If someone is not good at maths, there's nothing that can be done to change that. People are either good with numbers or they aren't",
+        "Everyone's numerical ability is determined at birth",
+        "Understanding data or statistics will be essential for me in my life's work.",
+        "It would be difficult to succeed in life without understanding numbers."
+      ]
+    },
+    {
+      "type": "checkbox",
+      "question": "Why did you choose this module? Tick as many as you like.",
+      "options": [
+        "I am interested in the subject.",
+        "I think I can get a good mark in this module.",
+        "I struggle with the subject and wanted to improve.",
+        "I wanted to learn something new.",
+        "It will help me in my career.",
+        "It will help me in my future generally",
+        "I know the teacher.",
+        "I didn't want to do the other modules."
+      ]
+    },
+    {
+      "type": "text",
+      "question": "Is there anything else you want to say about your feelings about using numbers, statistics, spreadsheets or graphs?"
+    }
+  ]
+}
